@@ -2,7 +2,8 @@
 
 HeartXtract is a Python based framework that can used to characterize heart structure categories and patient descriptors from MIMIC-III notes following a hierarchical numerical coding system.
 
-Access the notebook on Google Colab [here]([[paste-your-colab-link-here](https://colab.research.google.com/drive/1FEmWGK37qSav4puFaiCZycHiLUcq-6_1#scrollTo=5FhlkJ8-GQtA)]).
+The MIMIC-III data is hosted on BigQuery and the framework is integrated with Google BigQuery and Google Colab. 
+Access to the demo notebook can be found on Google Colab [here]([[paste-your-colab-link-here](https://colab.research.google.com/drive/1FEmWGK37qSav4puFaiCZycHiLUcq-6_1#scrollTo=5FhlkJ8-GQtA)]).
 
 <img width="630" alt="sample_note" src="https://github.com/danamouk/HeartXtract/assets/49573192/c381f916-6c6a-4cb4-8ea8-4174a44a0111">
 
