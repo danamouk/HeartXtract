@@ -1,6 +1,6 @@
 # HeartXtract
 
-HeartXtract is a Python based framework that can used to extract structured cardiovascular notes and categorize them for every subject in the MIMIC-III database following a hierachical numerical coding system.
+HeartXtract is a Python based framework that can used to extract structured cardiovascular notes and categorize them for every subject in the MIMIC-III database following a hierarchical numerical coding system.
 
 <img width="630" alt="sample_note" src="https://github.com/danamouk/HeartXtract/assets/49573192/c381f916-6c6a-4cb4-8ea8-4174a44a0111">
 
