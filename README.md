@@ -13,6 +13,8 @@ Run the Demo on Google Colab: [![Open In Colab](https://colab.research.google.co
 
 <img width="641" alt="heart_categories" src="https://github.com/danamouk/HeartXtract/assets/49573192/e33cbe8e-c2cb-4b8c-b7a3-7e19cd7ccd0e">
 
+<img width="634" alt="heart_categories_definitions" src="https://github.com/danamouk/HeartXtract/assets/49573192/0b3c99f5-b523-42f2-b1da-bdcd04c2bff7">
+
 HeartXtract extracts the following heart characteristics and patient descriptors from patient echo notes:
 
 | Column Name            | Description                                                           |
