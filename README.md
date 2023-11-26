@@ -11,6 +11,23 @@ Run the Demo on Google Colab: [![Open In Colab](https://colab.research.google.co
 
 # Overview
 
+# Project Overview
+
+Here's a visual representation of the project slides:
+
+![Slide 1](<img width="630" alt="sample_note" src="https://github.com/danamouk/HeartXtract/assets/49573192/c381f916-6c6a-4cb4-8ea8-4174a44a0111">
+) <!-- .element height="300px" -->
+![Slide 2](<img width="641" alt="heart_categories" src="https://github.com/danamouk/HeartXtract/assets/49573192/e33cbe8e-c2cb-4b8c-b7a3-7e19cd7ccd0e">
+) <!-- .element height="300px" -->
+
+To simulate the transition, you can view the images in sequence.
+
+* Slide 1
+![Slide 1](path/to/slide1/image.png) <!-- .element height="300px" -->
+
+* Slide 2
+![Slide 2](path/to/slide2/image.png) <!-- .element height="300px" -->
+
 <img width="630" alt="sample_note" src="https://github.com/danamouk/HeartXtract/assets/49573192/c381f916-6c6a-4cb4-8ea8-4174a44a0111">
 
 <img width="641" alt="heart_categories" src="https://github.com/danamouk/HeartXtract/assets/49573192/e33cbe8e-c2cb-4b8c-b7a3-7e19cd7ccd0e">
