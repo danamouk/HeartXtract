@@ -7,7 +7,7 @@ The MIMIC-III data is hosted on BigQuery and can be accessed on PhysioNet after 
 
 HeartXtract can be run with Google BigQuery and Google Colab as seen in the demo notebook.
 
-Run the Demo on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/your-notebook-id (https://colab.research.google.com/drive/1FEmWGK37qSav4puFaiCZycHiLUcq-6_1))
+Run the Demo on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FEmWGK37qSav4puFaiCZycHiLUcq-6_1)
 
 # Overview
 
