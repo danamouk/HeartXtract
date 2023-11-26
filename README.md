@@ -8,6 +8,7 @@ The MIMIC-III data is hosted on BigQuery and the framework is integrated with Go
 Run the Demo on Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/your-notebook-id (https://colab.research.google.com/drive/1FEmWGK37qSav4puFaiCZycHiLUcq-6_1))
 
 # Overview
+
 <img width="630" alt="sample_note" src="https://github.com/danamouk/HeartXtract/assets/49573192/c381f916-6c6a-4cb4-8ea8-4174a44a0111">
 
 <img width="641" alt="heart_categories" src="https://github.com/danamouk/HeartXtract/assets/49573192/e33cbe8e-c2cb-4b8c-b7a3-7e19cd7ccd0e">
